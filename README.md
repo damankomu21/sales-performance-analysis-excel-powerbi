@@ -62,4 +62,4 @@ This dashboard helps stakeholders:
 
 ## 👤 Author
 
-Aspir
+Aspiring Data Analyst skilled in Excel, SQL (Basic), Python (Basic), and Power BI.
