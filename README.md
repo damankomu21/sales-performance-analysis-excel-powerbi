@@ -1,4 +1,4 @@
-# 📊 E-Commerce Sales Analytics Dashboard
+# 📊 E-Commerce Sales Analytics Dashboard using Excel & Power BI
 
 ## 🔎 Project Overview
 
